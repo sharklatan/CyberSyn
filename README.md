@@ -9,12 +9,11 @@
 
 CyberSEO Lite is a simplified version of [CyberSEO Pro](http://www.cyberseo.net/) – an advanced yet user-friendly auto-blogging and content curation plugin for WordPress. It allows you to import RSS and Atom feeds and automatically convert the content into WordPress posts on your site. The plugin comes with powerful tools typically found in premium solutions.
 
-Vid1
-
+[<video src='https://github.com/sharklatan/CyberSyn/raw/main/Vid1.mp4' width=180/>](https://github.com/sharklatan/CyberSyn/raw/main/Vid1.mp4) 
 
 At the current moment, CyberSEO Lite is the only open-source freeware plugin capable of extracting full-text articles from shortened feeds, translating articles to/from over 100 languages using Google Translate and Yandex Translate services, and spinning content with 3rd-party content spinners. All these features are free and available after activating the plugin, without any hidden fees or limitations.
 
-Vid2
+[<video src='https://github.com/sharklatan/CyberSyn/raw/main/Vid2.mp4' width=180/>](https://github.com/sharklatan/CyberSyn/raw/main/Vid2.mp4)
 
 ### Key Features:
 - Generate WordPress posts from [Atom](http://en.wikipedia.org/wiki/Atom_%28standard%29)/[RSS](http://en.wikipedia.org/wiki/RSS) feeds and automate your site content.
